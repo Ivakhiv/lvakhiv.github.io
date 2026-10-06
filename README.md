@@ -23,12 +23,11 @@ All asset URLs are relative, so the site works at a domain root or a repository 
 
 ## Complete the profile before sharing
 
-Career facts have not been fabricated. Replace the clearly marked placeholders in `index.html` with approved information:
+Career content reflects the supplied professional profile. Achievement figures are presented as selected results without assigning them to an employer or program where that context was not supplied. No employment dates, client names, certification levels beyond those supplied, or additional outcomes have been inferred.
 
-- Executive summary, achievement metrics, employers, dates, and role outcomes.
-- Selected program names, scope, and verified results.
-- PMP issuer/date/verification and any additional certifications. PMP appears because it was requested; confirm its details before publication.
-- Confirm the suggested expertise areas.
+Remaining items:
+
+- Optionally add employment dates, approved program names, and certification verification links.
 - Replace the inactive LinkedIn placeholder with an `<a>` pointing to the real profile. Add a real contact email as a `mailto:` link.
 - Add a CV PDF under `assets/` and replace the inactive CV placeholder with an `<a href="assets/bohdan-ivakhiv-cv.pdf" download>` element. Remove its “Coming soon” label.
 - Add `og:url` and an absolute `og:image` URL once the public domain and social image are confirmed. Update the description if needed.
